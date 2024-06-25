@@ -163,8 +163,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-retryButton.addEventListener("click", () => {
-  resultElement.style.display = "none";
-  startButton.disabled = false;
-  inputElement.value = "";
-});
+// retryButton.addEventListener("click", () => {
+//   resultElement.style.display = "none";
+//   startButton.disabled = false;
+//   inputElement.value = "";
+// });
